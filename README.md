@@ -1,4 +1,4 @@
-# [Article Title]
+# Using Server-Side Swift for Machine Learning processing
 
 <p align="center">
     <img src="resources/CreatewithSwift-Hero.gif" alt="Ignite logo" />
@@ -21,9 +21,7 @@
 
 ## Content
 
-TODO: Change this part.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Discover how to host a compiled Machine Learning model on a server and get direct results in your SwiftUI-based client app without overloading your device’s memory.
 
 
 ## License
@@ -67,13 +65,13 @@ SOFTWARE.
 
 <p align="center">
 	<a href="https://twitter.com/createwithswift" target="_blank">
-		<img src="../resources/createwithswift-followonx.png" />
+		<img src="resources/createwithswift-followonx.png" />
 	</a>
 	<a href="https://www.linkedin.com/company/create-with-swift/" target="_blank">
-		<img src="../resources/createwithswift-linkedin.png" />
+		<img src="resources/createwithswift-linkedin.png" />
 	</a>
 	<a href="https://www.createwithswift.com" target="_blank">
-		<img src="../resources/createwithswift-articles.png" />
+		<img src="resources/createwithswift-articles.png" />
 	</a>
 </p>
 
