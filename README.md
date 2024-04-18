@@ -21,8 +21,9 @@
 
 ## Content
 
+In this project you will discover how to host a compiled Machine Learning model and its tasks on a server-side application. The goal is to obtain direct results in a client app made with SwiftUI by sending URL Requests to the server. This approach will prevent your iOS device from becoming overloaded with Machine Learning processing, which could cause a strain on its computing resources.
 
-Discover how to host a compiled Machine Learning model on a server and get direct results in your SwiftUI-based client app without overloading your device’s memory.
+[Read the full article](www.createwithswift.com/using-server-side-swift-for-machine-learning-processing)
 
 
 ## License
